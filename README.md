@@ -1,4 +1,4 @@
-# 次元音乐开源版
+# ciyuan_music/次元音乐
 
 <p align="center">
   <img src="image/logo.png" width="120" alt="次元音乐 Logo">
