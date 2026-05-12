@@ -1,0 +1,18 @@
+# Sensitive config
+/db_config.php
+
+# Runtime data
+*.log
+logs/
+/cache/
+/tmp/
+
+# User uploads or generated files
+/data/
+/uploads/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
